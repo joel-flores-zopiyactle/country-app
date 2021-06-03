@@ -8,7 +8,8 @@ https://restcountries.eu/
 
 **Los endpoints que se consumen son los siguientes**
 
-https://restcountries.eu/rest/v2/name/{name}
-https://restcountries.eu/rest/v2/capital/{capitak}
-https://restcountries.eu/rest/v2/region/{region}
-https://restcountries.eu/rest/v2/alpha/{code}
+- https://restcountries.eu/rest/v2/name/{name}
+- https://restcountries.eu/rest/v2/capital/{capital}
+- https://restcountries.eu/rest/v2/region/{region}
+- https://restcountries.eu/rest/v2/alpha/{code}
+
