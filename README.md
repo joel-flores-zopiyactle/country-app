@@ -2,7 +2,8 @@
 
 
 [![Angular 11](https://lh3.googleusercontent.com/proxy/oUWhb6jMAcpAKjq3xnc1OP4dA8RasTF8nUh09wDicEoFecsX0o8fFtqRztnXTsiUbAQuBO7AV39Qn1eNCrbXP5QTGIux0XUl--Lxbfm0PX1YeXoJbD5L1nYEIBQYpA "Angular 11")](https://lh3.googleusercontent.com/proxy/oUWhb6jMAcpAKjq3xnc1OP4dA8RasTF8nUh09wDicEoFecsX0o8fFtqRztnXTsiUbAQuBO7AV39Qn1eNCrbXP5QTGIux0XUl--Lxbfm0PX1YeXoJbD5L1nYEIBQYpA "Angular 11")
-**## Angular 11 y REST COUNTRIES**
+
+## Angular 11 y REST COUNTRIES**
 
 La siguiente aplicación es desarrollada con el framework de angular 11, la cual consiste en buscar países con sus respectiva información como bandera, población etc. La aplicación cuenta con 3 secciones que permiten hacer una búsqueda de país, región y capital. 
 
