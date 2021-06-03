@@ -36,7 +36,7 @@ export class PorRegionComponent implements OnInit {
   }
 
   getClassActivate(region:string) {
-    return (region === this.regionActiva) ? 'btn btn-primary': 'btn btn-outline-primary';
+    return (region === this.regionActiva) ? 'btn mx-1 btn-primary': 'btn mx-1 btn-outline-primary';
   }
 
 }
