@@ -1,0 +1,25 @@
+<div class="animate__animated animate__fadeIn animate__flash">
+  <h3>Por capítal</h3>
+  <hr>
+
+  <app-pais-input
+  (onEnter)="buscar($event)"
+  (onDebounce)="sugerencias($event)"
+  placeholder="Buscar capital ..."
+  >
+  </app-pais-input>
+</div>
+
+
+<div *ngIf="isError"
+  class="alert alert-danger">
+  No se encuntraron resultados
+</div>
+
+<div>
+  <div class="row">
+    <div class="col">
+      <app-pais-tabla [paises]="paises"></app-pais-tabla>
+    </div>
+  </div>
+</div>
