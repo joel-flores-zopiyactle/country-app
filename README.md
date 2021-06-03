@@ -21,7 +21,7 @@ https://restcountries.eu/
 
 **Para ejecutar el proyectos utiliza los siguientes comandos**
 
-Clonar proyecto
+*Clonar proyecto
 - `git clone https://github.com/joel-flores-zopiyactle/country-app.git `
 
 
