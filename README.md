@@ -18,3 +18,13 @@ https://restcountries.eu/
 - https://restcountries.eu/rest/v2/region/{region}
 - https://restcountries.eu/rest/v2/alpha/{code}
 
+
+**Para ejecutar el proyectos utiliza los siguientes comandos**
+
+*Instalar dependencias
+
+- `npm install`
+
+*Ejecutar proyecto
+- `ng serve -o`
+
