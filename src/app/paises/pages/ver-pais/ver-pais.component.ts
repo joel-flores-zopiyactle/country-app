@@ -13,6 +13,7 @@ import { PaisService } from '../../services/pais.service';
 export class VerPaisComponent implements OnInit {
 
   pais!:Countries;
+  // translations: string[] = ['br', 'de', 'es', 'fa', 'fr', 'hr', 'it', 'ja', 'nl', 'pt'];
 
   constructor(
     private activedRoute:ActivatedRoute,
