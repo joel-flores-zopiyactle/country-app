@@ -32,3 +32,6 @@ https://restcountries.eu/
 *Ejecutar proyecto
 - `ng serve -o`
 
+*Compilar proyecto
+- `ng build`
+
